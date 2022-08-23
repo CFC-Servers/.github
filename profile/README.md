@@ -17,7 +17,7 @@ And please, don't hesitate to start an Issue or Discussion if you'd like to requ
 
 ## 🧰 Some things we're working on improving:
  - 📝 Documentation / Instructions for many of our smaller projects
- - 🪛 Configuring and de-coupling our projects so they're easier for you to use
+ - 🔧 Configuring and de-coupling our projects so they're easier for you to use
  
 
 ---
