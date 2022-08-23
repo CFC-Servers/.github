@@ -8,7 +8,7 @@ In here, you'll find almost all of the projects we've ever created for Garry's M
 
 Our Projects are [GPL-3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)) Licensed, so you're free to use them however you'd like _(within reason)_. If you do make improvements or changes, please consider sharing them back upstream for everyone to enjoy!
 
-And please, don't hesitate to start an Issue or Discussion if you'd like to request a new feature or report bugs.
+And please, don't hesitate to start an Issue or Discussion if you'd like to request a new feature or report a bug.
 
 ## ✨ Some fun facts about CFC:
  - 💰 We don't accept any donations, and do not provide any in-game microtransactions
