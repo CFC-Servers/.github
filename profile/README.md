@@ -13,7 +13,7 @@ And please, don't hesitate to start an Issue or Discussion if you'd like to requ
 ## ✨ Some fun facts about CFC:
  - 💰 We don't accept any donations, and do not provide any in-game microtransactions
  - 👴 We've been hosting GMod servers under the CFC name since 2014, but our Leaders have hosted servers since 2010
- - 🧐 Our Development team is lead by experienced software engineers, with a combined total of 25 years' professional experience
+ - 🧐 Our Development team is lead by experienced software engineers from a variety of professional disciplines
 
 ## 🧰 Some things we're working on improving:
  - 📝 Documentation / Instructions for many of our smaller projects
