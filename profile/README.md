@@ -24,3 +24,5 @@ And please, don't hesitate to start an Issue or Discussion if you'd like to requ
 
 #### 🗨️ Want to chat? Have questions?
 [Join our Discord](https://cfcservers.org/discord) or [chat directly with the Owner](https://steamcommunity.com/id/Phatso727/)
+
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=CFC-Servers"/>
