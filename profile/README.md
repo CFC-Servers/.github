@@ -1,4 +1,4 @@
-# 👋 Welcome to CFC Servers
+# 👋 Welcome
 
 [CFC Servers](https://cfcservers.org) is a Gaming Community focused around Garry's Mod.
 
